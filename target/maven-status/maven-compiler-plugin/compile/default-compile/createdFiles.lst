@@ -1,0 +1,4 @@
+com\completableFuture\model\Employee.class
+com\completableFuture\CompletableFutureApplication.class
+com\completableFuture\manager\EntityManager.class
+com\completableFuture\dao\EmployeeRepository.class
